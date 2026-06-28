@@ -2,6 +2,7 @@
 
 An Arduino-based assistive device designed to help visually impaired individuals
 detect obstacles and elevation changes using ultrasonic sensors.
+It generates diffrent buzzer sounds for diffrent kind of obstacles.
 
 Features:
 - Forward obstacle detection
