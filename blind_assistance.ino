@@ -1,4 +1,4 @@
-// Author: Aatif Junaid
+// Author: Pradyumn Parashar
 // Project: Blind Assistance Wearable Device
 // Year: 2025
 
