@@ -9,8 +9,8 @@ Features:
 - Audio alerts via buzzer
 
 ## Prototype
-![Prototype](images/prototype.png)
+![Prototype](prototype.png)
 
 ## Circuit Diagram
-![Circuit](images/wiring.png)
+![Circuit](wiring.png)
 
